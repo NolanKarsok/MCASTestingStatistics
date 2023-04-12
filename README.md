@@ -1,9 +1,15 @@
 **<h1>Massachusetts 2022 Math and ELA MCAS Score Analysis</h1>**
 
-**<h3>Northeastern University, Department of Mathematics</h3><p>**
-**<h3>Authors: Timothy Hodgdon, Nolan Karsok, Broderick Kelly, Adam Nelson, Shreyas Risbud, Souri Sasanfar</h3><p>**
-**<h3>Course Name: Applied Statistics</h3><p>**
-**<h3>Instructor: Aidong Ding</h3><p>**
+<style>
+  h3 {
+    margin-bottom: 0.5em;
+  }
+</style>
+
+**<h3>Northeastern University, Department of Mathematics</h3>**
+**<h3>Authors: Timothy Hodgdon, Nolan Karsok, Broderick Kelly, Adam Nelson, Shreyas Risbud, Souri Sasanfar</h3>**
+**<h3>Course Name: Applied Statistics</h3>**
+**<h3>Instructor: Aidong Ding</h3>**
 
 This project analyzes the 2022 Massachusetts Math and ELA MCAS scores for multiple demographics including gender, grade level, household income, disability status and ethnicity. The goal of this project is to determine if significant differences exist in scores based on these demographics. The project includes hypothesis testing and statistical analysis to examine the data.
 
