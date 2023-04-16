@@ -15,4 +15,4 @@ The project uses data visualization techiques as well as confidence intervals to
 
 **<h3>Repository Structure</h3>**
 * R Commands: Folder containing the R Programming Language outputs that were used in this analysis. Both the code and results can be found here.
-* Final Report: The final deliverable of the project. This write up includes and introduction to the topic and data, results of the statistical tests and conclusions that were drawn, as well as further study and improvements.
+* Final Report: The final deliverable of the project. This write up includes an introduction to the topic and data, results of the statistical tests and conclusions that were drawn, as well as further study and improvements.
