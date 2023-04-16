@@ -5,10 +5,10 @@
 **<h3>Course Name: Applied Statistics</h3>**
 **<h3>Instructor: Aidong Ding</h3>**
 
-This project analyzes the 2022 Massachusetts Math and ELA MCAS scores for multiple demographics including gender, grade level, household income, disability status and ethnicity. The goal of this project is to determine if significant differences exist in scores based on these demographics. The project includes hypothesis testing and statistical analysis to examine the data.
+This project analyzes the 2022 Math and ELA MCAS scores across four major demographics including gender, household income, disability status and race/ethnicity. The goal of this project is to determine if significant differences exist in scores based on these demographics. The project includes data visualization and statistical analysis to examine the data.
 
 **<h3>Dataset</h3>**
 The data used for this project comes from the Massachusetts Department of Elementary and Secondary Education. The data is publicly available and includes MCAS scores broken down by demographics. The data can be found here: https://profiles.doe.mass.edu/statereport/nextgenmcas.aspx
 
 **<h3>Methods</h3>**
-The project uses hypothesis testing and statistical analysis to determine if significant differences exist in MCAS scores based on demographic variables. The methods used in the project include t-tests, ANOVA, and regression analysis.
+The project uses data visualization techiques as well as confidence intervals to understand the distribution of scores across each demographic. Hypothesis testing is used hypothesis testing determine if significant differences exist in MCAS scores based on demographics.
