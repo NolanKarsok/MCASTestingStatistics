@@ -12,3 +12,7 @@ The data used for this project comes from the Massachusetts Department of Elemen
 
 **<h3>Methods</h3>**
 The project uses data visualization techiques as well as confidence intervals to understand the distribution of scores across each demographic. Hypothesis testing is used to determine if significant differences exist in MCAS scores based on demographics.
+
+**<h3>Repository Structure</h3>**
+* R Commands: Folder containing the R Programming Language outputs that were used in this analysis. Both the code and results can be found here.
+* Final Report: The final deliverable of the project. This write up includes and introduction to the topic and data, results of the statistical tests and conclusions that were drawn, as well as further study and improvements.
