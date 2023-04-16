@@ -1,4 +1,4 @@
-**<h1>2022 Massachusetts Comprehensive Assessment System Testing Statistics</h1>**
+**<h1>Massachusetts Comprehensive Assessment System Testing Statistics</h1>**
 
 **<h3>Northeastern University, Department of Mathematics</h3>**
 **<h3>Authors: Timothy Hodgdon, Nolan Karsok, Broderick Kelly, Adam Nelson, Shreyas Risbud, Souri Sasanfar</h3>**
