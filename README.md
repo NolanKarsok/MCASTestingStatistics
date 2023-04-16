@@ -11,4 +11,4 @@ This project analyzes the 2022 Math and ELA MCAS scores across four major demogr
 The data used for this project comes from the Massachusetts Department of Elementary and Secondary Education. The data is publicly available and includes MCAS scores broken down by demographics. The data can be found here: https://profiles.doe.mass.edu/statereport/nextgenmcas.aspx
 
 **<h3>Methods</h3>**
-The project uses data visualization techiques as well as confidence intervals to understand the distribution of scores across each demographic. Hypothesis testing is used hypothesis testing determine if significant differences exist in MCAS scores based on demographics.
+The project uses data visualization techiques as well as confidence intervals to understand the distribution of scores across each demographic. Hypothesis testing is used to determine if significant differences exist in MCAS scores based on demographics.
